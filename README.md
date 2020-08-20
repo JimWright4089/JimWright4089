@@ -1,6 +1,7 @@
-<center>A fool, a fool! I met a fool i' the forest,</center>
-<center>A motley fool; a miserable world!</center>
-<center>As I do live by food, I met a fool</center>
+> A fool, a fool! I met a fool i' the forest,
+> A motley fool; a miserable world!
+> As I do live by food, I met a fool
+> JAQUES *As you Like it*
 
 robots, programs, and works of art are never done. you see bugs, fixes, and additions in everything you do. there is never enough time in the day to do it all and your brain thinks of more every time you try to fall asleep.
 
