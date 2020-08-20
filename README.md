@@ -1,4 +1,8 @@
-### Hi there 👋
+A fool, a fool! I met a fool i' the forest,
+A motley fool; a miserable world!
+As I do live by food, I met a fool
+
+robots, programs, and works of art are never done. you see bugs, fixes, and additions in everything you do. there is never enough time in the day to do it all and your brain thinks of more every time you try to fall asleep.
 
 <!--
 **JimWright4089/JimWright4089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
