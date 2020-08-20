@@ -1,3 +1,5 @@
+![Robot](https://github.com/JimWright4089/JimWright4089/blob/master/TPlat2.gif)
+
 > A fool, a fool! I met a fool i' the forest,
 > A motley fool; a miserable world!
 > As I do live by food, I met a fool  
